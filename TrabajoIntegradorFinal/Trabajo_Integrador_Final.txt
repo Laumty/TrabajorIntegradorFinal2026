@@ -1,17 +1,1 @@
-## Trabajo Integrador Final
 
-## Integrantes del equipo
-- Rodrigo Lautaro Marquez
-
-
-## Carrera
-Tecnicatura universitaria en Telecomunicaciones
-
-## Materia
-Programacion
-
-## Programa Utilizado
-PseInt (VSC para el ejercicio de nodos)
-
-## Descripción
-Breve descripción del TFI.
